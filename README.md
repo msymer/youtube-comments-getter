@@ -34,10 +34,10 @@ Comments:
 Alice: This is my comment,
 Bob: And this is my comment
 ```
-## How to run?
+## How to run the scripts?
 The scripts were developed in Python v3.7.3.
 
-To run the scripts you need to specifi the argument with the youtube video id.
+To run the scripts you need to specify the argument with the youtube video id.
 ```
 python3 comments-getter.py JoT8GZHyEgQ
 ```
