@@ -1,0 +1,7 @@
+{
+    "apiKey": "xxx",
+    "formatting": "<RR><ATH>: <CMT><SS><NL><SS><RR>",
+    "outputExtension": "txt",
+    "commentsApiUrl": "https://www.googleapis.com/youtube/v3/commentThreads?key={api_key}&textFormat=plainText&part=snippet&videoId={video_id}&maxResults=100&pageToken={nextPageToken}",
+    "commentsCount": 100
+}
